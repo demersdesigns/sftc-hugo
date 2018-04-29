@@ -1,7 +1,8 @@
 +++
 author = "Auteur Hugo"
 categories = ["Hugo"]
-date = "2014-04-02"
+cover_image = "images/image1.jpeg"
+date = "2014-04-02T00:00:00Z"
 description = ""
 featured = "pic03.jpg"
 featuredalt = "Pic 3"
@@ -9,11 +10,8 @@ featuredpath = "date"
 linktitle = "Débuter avec Hugo"
 slug = "Debuter avec Hugo"
 title = "Débuter avec Hugo"
-type = "post"
-cover_image = "images/image1.jpeg"
 
 +++
-
 ## Étape 1. Installer Hugo
 
 Allez sur la page de téléchargements de

@@ -1,3 +1,5 @@
 ---
-title: "Accueil"
+title: Accueil
+type: page
+
 ---

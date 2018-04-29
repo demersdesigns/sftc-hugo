@@ -1,21 +1,13 @@
 +++
-title = "Getting Started with Hugo"
-description = ""
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
-date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
 author = "John Doe"
+categories = ["Development", "golang"]
 cover_image = "images/image1.jpeg"
-+++
+date = "2014-04-02T00:00:00Z"
+description = ""
+tags = ["go", "golang", "hugo", "development"]
+title = "Getting Started with Hugo"
 
++++
 ## Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the

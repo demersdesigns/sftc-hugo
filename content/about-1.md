@@ -1,6 +1,9 @@
 +++
 date = "2018-04-29T20:34:30+00:00"
 title = "About Starfun Theater Camp"
+[menu.main]
+name = "About"
+weight = 6
 
 +++
 ## What is StarFun Theater Camp?
