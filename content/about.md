@@ -1,11 +1,14 @@
 ---
-title: "About Hugo"
-date: "2014-04-09"
-menu: "main"
-author: "John Doe"
-cover_image: "images/image1.jpeg"
----
+title: About Hugo
+date: 2014-04-09 00:00:00 +0000
+author: John Doe
+cover_image: images/image1.jpeg
+type: page
+menu:
+  main: {}
+draft: true
 
+---
 Hugo is the **world’s fastest framework for building websites**. It is written in Go.
 
 It makes use of a variety of open source projects including:
